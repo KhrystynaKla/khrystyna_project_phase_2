@@ -1,0 +1,311 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Sniper. The White Raven",
+      "year": "2022",
+      "genre": [
+        "drama",
+        "war"
+      ],
+      "description": "After suffering a tragedy at the hand of invading soldiers in Donbas, an Ukrainian physics teacher seeks revenge. He sets his sights on an elite Russian sniper whose elimination could change the tide of the conflict.",
+      "detailed_description": "Mykola is an eccentric Ukrainian pacifist who wants to be useful to humanity. When Russia-Ukraine War begins in eastern Ukraine's region of Donbas in 2014, Mykola's naive world is collapsing as Russian soldiers kill his pregnant wife and burn his home to the ground. Recovered, he makes a cardinal decision and gets enlisted in a sniper company. Having met his wife's killers, he emotionally breaks down and arranges \"sniper terror\" for the Russian enemy. He's saved from a senseless death by his instructor who himself gets mortally wounded. The death of a friend leaves a \"scar\" and Mykola is ready to sacrifice his life.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWMwOTgyNmMtYWNlYS00NGIyLTllOWYtZTVlNzU3N2ViZWQ5XkEyXkFqcGdeQXVyMzk3OTUyMDY@._V1_.jpg",
+      "platform": "Watch on SHOWTIME",
+      "platform_link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8e0346db-d4a8-42ab-8e4d-7d45cfbe6658?ref_=imdbref_tt_wbr_pvc_showtimeSub&tag=imdbtag_tt_wbr_pvc_showtimeSub-20",
+      "likes_number": 7,
+      "comments": []
+    },
+    {
+      "id": 2,
+      "name": "Mavka: Forest Song",
+      "year": "2023",
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "description": "Mavka must choose between love and duty to protect the Heart of the Forest.",
+      "detailed_description": "Mavka - a soul of the Forest - faces an impossible choice between love and her duty as guardian to the Heart of the Forest, when she falls in love with a human - the talented young musician Lukash. Our story is about the magical power of love. That kind of love that enables human nature to find the magic within and reveals abilities and qualities that empower a person to reach beyond possible and to hold against evil and human vice.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU0Y2RkY2ItNzBiOC00ZTcxLWFhMDgtZmQ0MGFlNTc4NjQyXkEyXkFqcGdeQXVyMzA0OTQzODE@._V1_.jpg",
+      "platform": "Watch On PRIME VIDEO",
+      "platform_link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.19d1094f-dba1-44de-bd5d-aa67797eb201?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20",
+      "likes_number": 25,
+      "comments": [
+        {
+          "username": "KhrystynaKla",
+          "comment": "wow! it's so cool"
+        },
+        {
+          "username": "KhrystynaKla",
+          "comment": "tfufyvkuyygli"
+        },
+        {
+          "username": "KhrystynaKla",
+          "comment": "the best cartoon ever!"
+        },
+        {
+          "username": "KhrystynaKla",
+          "comment": "the best cartoon ever!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "20 Days in Mariupol",
+      "year": "2023",
+      "genre": [
+        "Documentary"
+      ],
+      "description": "As the Russian invasion begins, a team of Ukrainian journalists trapped in the besieged city of Mariupol struggle to continue their work documenting the war's atrocities.",
+      "detailed_description": "A team of Ukrainian journalists from The Associated Press (AP) trapped in the besieged city of Mariupol struggle to continue their work documenting atrocities of the Russian invasion. As the only international reporters who remain in the city, they capture what later become defining images of the war: dying children, mass graves, the bombing of a maternity hospital, and more. After nearly a decade covering international conflicts, including the Russia-Ukraine war for the AP, 20 DAYS IN MARIUPOL is Mstyslav Chernov's first feature length film. Drawing on Chernov's daily news dispatches and personal footage of his own country at war, 20 DAYS IN MARIUPOL is a vivid, harrowing account of civilians caught in the siege, as well as a window into what it's like to report from a conflict zone, and the impact of such journalism around the globe.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDIxMzE0NmItZDBiNy00ZmMyLWI1MTItMTI0Mzc5MzAyZjI0XkEyXkFqcGdeQXVyMjk1NzAxNg@@._V1_FMjpg_UX1000_.jpg",
+      "platform": "",
+      "platform_link": "",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "name": "The Tribe",
+      "year": "2014",
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "description": "A deaf boy joins a boarding school for similar children. Confronted by the violent and criminal antics of some of the other boys and girls, he struggles to conform and join the 'tribe'.",
+      "detailed_description": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWM3NWI0ZjUtZmZhMy00ZTI0LWJiNTItZWZmMmEwMzVhODZhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+      "platform": "Watch on FANDOR",
+      "platform_link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10a9f768-2b05-9283-3e1a-e905db838fa3?ref_=imdbref_tt_wbr_pvc_fandor&tag=imdbtag_tt_wbr_pvc_fandor-20",
+      "likes_number": 0,
+      "comments": [
+        {
+          "username": "KhrystynaKla",
+          "comment": "gjvjhkhvhkv"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Rising Hawk",
+      "year": "2019",
+      "genre": [
+        "Action",
+        "Drama",
+        "Hisory"
+      ],
+      "description": "The Mongol Empire had grown to the largest the world had ever known. Its armies now laid siege to much of Eastern Europe. A small village fights for freedom in the frontier landscape of the Carpathian Mountains.",
+      "detailed_description": "During the 13th century, Zakhar Berkut and his wife Rada lead a group of high-landers in Carpathian Mountains. Unfortunately, their tranquil existence is soon threatened by Burunda Khan, a powerful Mongol general who leads his massive armies west in search of new lands to conquer. Forced to protect their village, Zakhar and Rada send their sons, Ivan and Maksim, to ask for help from Tugar Volk, a wealthy boyar who has recently arrived from King. After his strong-willed daughter Myroslava and Maksim survive a dangerous encounter together, Tugar Volk pledges to defend the villagers against the Mongols. But when a mutual attraction sparks between Myroslava and Maksim, Tugar Volk forbids them from continuing their relationship. Meanwhile, Burunda Khan faces questions from his warriors about his motivation and military strategy for the impending invasion. As war breaks out, both sides suffer devastating casualties. Redoubling his efforts, Burunda Khan unleashes the full fury of his forces. Faced with certain doom, Maksim and Myroslava must choose to flee or make the ultimate sacrifice to save their people.",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWMzZWI2MDgtZjJjZS00NzgwLTk1NGQtODhhNDYwNDQwNzExXkEyXkFqcGdeQXVyOTg2NzQ2OA@@._V1_FMjpg_UX1000_.jpg",
+      "platform": "Watch on Freevee",
+      "platform_link": "https://www.amazon.com/ap/signin?clientContext=135-7108430-8693413&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fauth%2Freturn%2Fref%3Dav_auth_ap%3F_t%3Dsg2VaPRhIvx-dPrXBL18ypmB9atxYQfdhD8J5av-NGZQOAAAAAQAAAABlRYD-cmF3AAAAAPgWC9WfHH8iB-olH_E9xQ%26location%3D%2Fgp%2Fvideo%2Fdetail%2Famzn1.dv.gti.24df1c39-adc5-472e-9469-3d8b583ad5da%3Fref_%253Datv_auth_red_aft%2526tag%253Dimdbtag_tt_wbr_fdv-20%2526autoplay%253D1&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "name": "Dovbush",
+      "year": "2023",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "description": "18th century. Oleksa Dovbush - kind of a Carpathian Robin Hood. He robs feudal lords, helps poor villagers. He's got a bounty on his head.",
+      "detailed_description": "In the early eighteenth century, foreign rule means dark times for the Hutsuls of the Carpathians. The two Dovbush brothers become opryshkos - mountain outlaws. But the two brothers become enemies - one cares only about money, the other - Oleksa - fights for his people. The Carpathians are convulsed with a wave of uprisings. The aristocracy uses its military might to try to kill Dovbush and destroy his legend. But Dovbush outwits them. The desperate lords devise a devious plan and attack the invincible outlaw's Achilles heel - his love for his childhood sweetheart, Marichka. Who will be the assassin to attack the Opryshko whose immense strength and bravery inspired folk tales? Will the lords' treacherous plan destroy the hero before he can lead his people to freedom?",
+      "image": "https://ukrainiancinema.org/storage/movies/38/46a6b402122afcce40503d42187ac90838d258f1.jpeg",
+      "platform": "Watch On PRIME VIDEO",
+      "platform_link": "https://www.amazon.com/Legend-Carpathians-Valeriy-Kharchyshyn/dp/B0844FL2DN",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "name": "Servant Of The People",
+      "year": "2015-2019",
+      "genre": [
+        "Comedy"
+      ],
+      "description": "After a Ukrainian high-school teacher's tirade against government corruption goes viral on social media, he finds himself elected the country's new president.",
+      "detailed_description": "A political comedy about an ordinary schoolteacher becoming the President of Ukraine. He tries to live an ordinary life without all the 'President's privileges' and works very hard to build a new country and fight the army of corrupt and deceitful bureaucrats.",
+      "image": "https://flxt.tmsimg.com/assets/p14119020_b_v8_aa.jpg",
+      "platform": "Watch On NETFLIX",
+      "platform_link": "https://www.netflix.com/title/80119382?source=imdb",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "name": "The Stolen Princess",
+      "year": "2018",
+      "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "description": "A story from the age of valiant knights, beautiful princesses, and evil sorcerers. Ruslan, an artist who dreams of becoming a knight, meets and falls in love with the beautiful Mila, without realizing that she is the King's daughter.",
+      "detailed_description": "This wonderful story happened in the age of valiant knights, beautiful princesses, and battling sorcerers. Ruslan, a wandering artist dreaming to become a knight, met beautiful Mila and fell in love with her; he didn't even suspect that she is the King's daughter. However, the lovers' happiness wasn't meant to last too long. Chernomor, the evil sorcerer, appeared in a magic vortex and stole Mila right before Ruslan's eyes to transform her power of love into his own magic power. Without further ado, Ruslan sets out on a chase after the stolen princess to overcome all obstacles and to prove that real love is stronger than magic.",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTUyYmZhNzktNGJiOS00NDZlLWJmY2MtYTMzZjM5NGZmOGVhXkEyXkFqcGdeQXVyODQwNTU3MjU@._V1_.jpg",
+      "platform": "Watch On FREEVEE",
+      "platform_link": "https://www.amazon.com/ap/signin?clientContext=135-7108430-8693413&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fauth%2Freturn%2Fref%3Dav_auth_ap%3F_t%3Dsg4DQH_w_R0e4AWxHu7IHrXy7oq7HL_QOL9RTav_Sy2hxAAAAAQAAAABlRYfRcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ%26location%3D%2Fgp%2Fvideo%2Fdetail%2Famzn1.dv.gti.b4b67f00-d387-121b-cf5c-3b7f70caad98%3Fref_%253Datv_auth_red_aft%2526tag%253Dimdbtag_tt_wbr_fdv-20%2526autoplay%253D1&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "name": "Let It Snow",
+      "year": "2020",
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "description": "Separated from her fiance after sneaking onto a restricted slope, Mia, a free-riding snowboarder, must survive not only against nature, but also the masked snowmobile rider in black who is out for her blood.",
+      "detailed_description": "Let It Snow is a 2020 horror-thriller film directed by Stanislav Kapralov. The film was written by Kapralov and Omri Rose, and stars Ivanna Saknho, Alex Hafner, and Tinatin Dalakishvili. In this terrifying blend of action and horror, Max and Mia sneak onto a restricted snowboarding slope, but Max goes missing and Mia is attacked by a murderous snowmobile rider.",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18627418_p_v13_ab.jpg",
+      "platform": "Watch On PRIME VIDEO",
+      "platform_link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1cba51a2-4413-4133-b08a-a095b6b58895?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 10,
+      "name": "Cossacks",
+      "year": "2020",
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Action"
+      ],
+      "description": "Ivan a young Ukrainian peasant robs the Moscow Tsar of precious jewels. He also accidentally steals a magical heirloom, now in the hands of the Sich leader, Koshovy, in his Ukrainian Cossack Fortress. An 'ALADIN' style action adventure.",
+      "detailed_description": "Raised by a Polish aristocrat, Ivan is a young Ukrainian man of humble peasant origins. His cheeky nature pushes him to rob the Moscow Tsar of precious jewels, yet it's to a noble end: he needs the royal riches to free his mother from Ottoman enslavement. But then it turns out that the simple robbery is not that simple: Ivan accidentally steals a magical heirloom, an earring which had helped the Moscow ruler to stave off defeat. The magic earring ends up in Ukrainian Cossack Fortress, aka the Sich, what's worse - it's in the ear of the Sich leader, Koshovy. Stealing the earring from the Tsar was tricky; stealing it from the Cossacks is impossible, however hard Ivan tries to to get into their good graces. It does not help that Koshovy's right-hand man, Nazar, doesn't trust Ivan. He is also suspicious (and for a good reason) of Ivan's intentions towards Nazar's beloved Mariana. Can this get worse? It can - when the Tsar's most merciless henchman, Fedor, decides to chase and punish the thief of the heirloom personally. And the earring? - You will discover it holds more than one secret.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGM4ZDgzZDQtNzdlMC00NmJjLTgzZjAtODg0NjYyM2I4MmYwXkEyXkFqcGdeQXVyMTEzODU1NzMz._V1_FMjpg_UX1000_.jpg",
+      "platform": "Watch on CRACKLE",
+      "platform_link": "https://www.crackle.com/watch/21312792-9ba4-454a-aaf0-7a044926cfea/cossacks",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 11,
+      "name": "The Stronghold",
+      "year": "2017",
+      "genre": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "description": "The Stronghold is a Ukrainian adventure/fantasy film based on the same-name book. A present-day schoolboy Vit'ko goes a thousand years into past.",
+      "detailed_description": "Time travel ... one of the biggest fantasies human kind has. Not sure how it would work (though the multiple universe thing sounds the closest one to make actual sense), but until that becomes a reality ... if ever that is - we have movies like this one to enjoy. It's a fantasy movie that brings us back into a different world ... with certain innovations from the present day ... which therefor almost make it look like a larp event. Interesting and introguing, the movie has also one of the things I never will understand: not Russian/Ukrainian dialog is being dubbed ... over the real voice, so you hear the dialog twice or overlapped ... it's a pet peeve but maybe you are bugged out about this too. A fun ride, for those willing to take it.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGY5ZDhkZmMtMmU1YS00OGZmLWExMzAtMTA4ZDA5OWI2MmEyXkEyXkFqcGdeQXVyMzA0OTQzODE@._V1_.jpg",
+      "platform": "Watch on Freevee",
+      "platform_link": "https://www.amazon.com/ap/signin?clientContext=135-7108430-8693413&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fauth%2Freturn%2Fref%3Dav_auth_ap%3F_t%3Dsg6pmsAis6toCWIk3FjC8gtpnNepW8vaBMJDPXVCxI87MAAAAAQAAAABlRYuncmF3AAAAAPgWC9WfHH8iB-olH_E9xQ%26location%3D%2Fgp%2Fvideo%2Fdetail%2Famzn1.dv.gti.30b03886-3711-e55b-24d0-0e1589fa2a06%3Fref_%253Datv_auth_red_aft%2526tag%253Dimdbtag_tt_wbr_fdv-20%2526autoplay%253D1&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 12,
+      "name": "Cyborgs: Heroes Never Die",
+      "year": "2017",
+      "genre": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "description": "It is a story of a several-week-long military duty in September 2014. A group of military volunteers comes to Donetsk Airport for the first time - the Airport has been held by Ukrainians for more than four months of war.",
+      "detailed_description": "Cyborgs tells a story of a several-week-long military duty in September 2014. A group of military volunteers comes to Donetsk Airport for the first time - the Airport has been held by Ukrainians for more than four months in war. They arrive in a new armored vehicle given to them by volunteers. The old and the new terminals are surrounded by pro-Russian fighters. They outnumber our military men ten times. There is only one narrow corridor to Pisky that lets the people come to and leave the airport. This dangerous corridor provides with an opportunity to rotate soldiers, bring help and equipment, transport injured and killed men; medical staff journalists and looters have an opportunity to go through it. The old terminal is safer. It has walls. The new one is like an aquarium where you become an easy target. It should be held though, so there are always military groups in it. About 100 people are always situated in the new terminal, and about 50 people are in the old one. Three main types of military men are based in the airport, and the conditions create a certain type of triangle of relationships between them: the volunteers, Ukrainian army and mobilized soldiers. The volunteers, as a rule, are the most motivated, the army are considered to be the most professional. The biggest problem is the mobilized soldiers. Both the army and the volunteers speak of them mostly with irritation and arrogance because they usually lack for motivation and professionalism. There are certain relationships between the army and the volunteers (especially those from Pravyi Sektor). From respect to mistrust. However, they are all bound together and depend on each other. Outside the airport there are two more important groups on which the defense of the airport depends - those are the artillery and tank corps. Holding the airport without them would be impossible.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTUyMWNkYWUtMTg1ZS00MjJiLWE2ZjgtYjJkYTJmMmEzNWI0XkEyXkFqcGdeQXVyNTEzNDIxOTg@._V1_.jpg",
+      "platform": "Watch On PRIME VIDEO",
+      "platform_link": "https://www.amazon.com/Heroes-Never-Die-Roman-Yasinovsky/dp/B0899784D8",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 13,
+      "name": "Pulse",
+      "year": "2021",
+      "genre": [
+        "Drama",
+        "Sport"
+      ],
+      "description": "The film's plot is based on a real story of Oksana Boturchuk, a Ukrainian track-and-field athlete and Paralympic champion of 2008, five-time silver and bronze winner at Summer Paralympics of 2008, 2012 and 2016.",
+      "detailed_description": "A young Ukrainian field athlete lives in a small town and has a big dream - to take part in the Olympics. Her competitive career has just began, and she has good results. But after a terrible car accident the girl suffers severe injuries and almost loses her eyesight. It seems that Oksana has no other choice but to forget not only about the long wished Olympics, but also about a normal life. However, she is not going to give up and wishes to prove that there are no obstacles on the way to make the real dream come true.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjljYjYwMzYtOWIxNS00YmMzLWI5ZjctN2NhNzkwYWU4ZWM0XkEyXkFqcGdeQXVyMTE0ODQyOTU0._V1_FMjpg_UX1000_.jpg",
+      "platform": "Watch On PRIME VIDEO",
+      "platform_link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a9356d36-f9b7-4648-b9ca-f666bab9705f?tag=reelgood060d-20",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 14,
+      "name": "Black Raven",
+      "year": "2019",
+      "genre": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "description": "Being a full-blooded Ukrainian, Ivan possessed qualities such as courage, and the flow in his veins forced him to support a movement. Being a loving person, he cannot look the other way for what is happening in his hometown. He, along with like-minded people, begins a desperate fight for the freedom of his homeland and loved ones.",
+      "detailed_description": "Ukraine 1922. The Russian empire has already broken up, but a new state has not yet been formed. Many tried to create and consolidate their independence during this period, and this is the story of one of such people. This is the story of the life and love of one person - Ivan, nicknamed Raven …",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzc4NDViNTgtOGU3MC00NjcwLTk5MDktZTFjZDIwZWM1ZDA0XkEyXkFqcGdeQXVyMjk1NzAxNg@@._V1_.jpg",
+      "platform": "Watch On PRIME VIDEO",
+      "platform_link": "https://www.amazon.com/Black-Raven-George-Zucco/dp/B000GWF8AO",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 15,
+      "name": "Felix Austria",
+      "year": "2020",
+      "genre": [
+        "Drama",
+        "Fantasy",
+        "History"
+      ],
+      "description": "Welcome to the kitchen of the perfect maid Stefania Chornenko where she excels in cooking while intoxicating the marriage of her half-sister master Adelia Anger against the backdrop of 1900 small town on the outskirts of Austro-Hungary.",
+      "detailed_description": "Two young women caught in a toxic relationship are trying to ultimately grow up against the backdrop of the provincial Eastern Austro-Hungary 1900. The plot revolves around the controversial relationship between maid Stefania Chornenko and blueblood Adelia Anger. Both Stefania's parents and Adelia's mother died during the fire in 1868. Doctor Anger, Adelia's father, adopted neighbors' orphan. Girls grew up together to become as close as sisters, though Stefania served as the maid. This attachment develops into love-trap: on one hand full of mutual manipulation and jealousy, but equally based on care and devotion. The illusion of balance was broken when Adelia married sculptor Petro. Everything gets even more complicated when Joseph, the old love interest of Stefa, returns to town as the priest and married man. The screen adaptation of 'Felix Austria' bestselling novel by Sophia Andrukhovych.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU5NDJjMDItNmFmNi00ZTNhLTk5NjktMGRjYzRhYTM3Yjg2XkEyXkFqcGdeQXVyNTg4ODkzODA@._V1_.jpg",
+      "platform": "Watch On KYIVSTAR",
+      "platform_link": "https://tv.kyivstar.ua/en/movie/627a56310f34e2deb5424098-2020-viddana",
+      "likes_number": 0,
+      "comments": []
+    },
+    {
+      "id": 16,
+      "name": "The Best Weekend",
+      "year": "2022",
+      "genre": [
+        "Comedy",
+        "Family"
+      ],
+      "description": "Four adventures about different kinds of love are intertwined: romantic, familial, brotherly, and that tender teenage type. These are the stories of strangers colliding during the most unforgettable weekend of their lives.",
+      "detailed_description": "A guy from Germany becomes a volunteer at the festival to make a female organizer fall in love with him but instead loses an elderly headliner of Atlas Weekend. Guys from Kryvyi Rig organize a legendary stag party but quarrel like children and fight like adults. A young girl from Odessa looks for her rocker dad who she hasn't seen and instead constructed an ideal image of for 10 years. A career-climber from Lviv arrives for the most important interview in her life but her younger brother disrupts absolutely all of her plans. This is going to be the craziest trip of our characters and their Best Weekend.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDZhNWRhYmYtMDBjYS00ZmYwLTk3YjItMDVlY2I0YmNhZDk3XkEyXkFqcGdeQXVyNjQ4NjY1MjM@._V1_.jpg",
+      "platform": "Watch On SWEET TV",
+      "platform_link": "https://sweet.tv/movie/23503-naykrashchi-vihidni",
+      "likes_number": 12,
+      "comments": [
+        {
+          "username": "KhrystynaKla",
+          "comment": "It's the best movie I have ever seen in my life!!!!"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "KhrystynaKla",
+      "password": "Klaklakla"
+    },
+    {
+      "username": "IanIan",
+      "password": "ianianian",
+      "id": 2
+    },
+    {
+      "username": "kriskris",
+      "password": "qwertyu",
+      "id": 3
+    }
+  ]
+}

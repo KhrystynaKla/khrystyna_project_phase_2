@@ -1,38 +1,305 @@
-.App {
+html, body, #root {
+  margin:0px;
+  padding:0px;
+  height:100vh;
+  color: #161925;
+  font-family: 'Quicksand', sans-serif;
+  background: grey
+}
+
+
+/* header */
+
+#logo {
+  width: 100vw; /* 100% of the viewport width */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Remove any inline spacing */
+}
+/*
+ * movie CARD
+ */
+ .movie-container {
+
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-flow: row wrap;
+  gap: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.show-card {
+  display:flex;
+  width:40%;
+  min-width:40%;
+  gap:1em;
+  border: 1px solid black;
+  border-radius: 6px;
+  padding-right: 2em;
+  border-style:inset;
+  border-color: rgb(226, 224, 224);
+  border-width: 10px;
+  box-shadow: #f6f7f9;
+  background: #ffde59;
+  transition: transform 0.3s, box-shadow 0.3s; /* Add transitions for transform and box shadow */
+}
+
+.show-card:hover {
+  transform: scale(1.10); /* Increase size on hover */
+}
+
+.details-container {
+  display:flex;
+  flex-direction: column;
+  width:100%;
+  height:100%;
+  overflow:hidden;
+}
+
+.show-card h3 {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+}
+
+.details-container header {
+  display:flex;
+  min-height:10%;
+}
+
+
+.details-container p {
+  min-height:30%;
+  overflow-y: auto;
+  margin:0px;
+}
+
+
+
+.show-art {
+  height:100%;
+  width:30%;
+  object-fit: cover;
+}
+
+
+
+/*
+ * movie profile
+ */
+
+ .movie-details {
+  display: flex;
+  flex: 1;
+}
+
+.image-container {
+  flex: 0.5;
+  transition: all 0.3s;
+  overflow: hidden;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform-origin: left;
+  transition: all 0.3s;
+  margin: 10px;
+}
+
+.content {
+  flex: 1;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.navbar {
+  width: 100%;
+  background-color: #ffde59;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  transition: transform 0.3s;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold; /* Make the text bold */
+  font-size: 27px; /* Increase the font size */
+}
+
+.navbar a:hover {
+  color: grey;
+  transform: scale(1.30)
+}
+
+.navbar a.active {
+  color: grey;
+}
+
+
+/*movie form*/
+.new-movie-form {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
   text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.new-movie-form h2 {
+  font-size: 1.5rem;
+  color: #333;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.new-movie-form form {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.new-movie-form label {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.new-movie-form input, .new-movie-form select {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.new-movie-form select {
+  height: 100px; /* Adjust the height for the multi-select */
+}
+
+.new-movie-form button {
+  background-color: #ffde59;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.new-movie-form button:hover {
+  background-color: grey;
+}
+
+b {
+  border-color: grey;
+  border-width: 2px;
+  background-color: #ffde59;
+}
+
+/* login */
+
+.login-container {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.login-container h2 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.login-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-container label {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-container button {
+  background-color: #ffde59;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.login-container button:hover {
+  background-color: grey;
   color: white;
+  transform: scale(1.30);
 }
 
-.App-link {
-  color: #61dafb;
+
+/*logout */
+
+.logout-container {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  margin: 100px auto;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.logout-container h2 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.logout-container p {
+  color: #777;
+  font-size: 1rem;
+}
+
+.logout-container button {
+  background-color: #ffde59;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.logout-container button:hover {
+  background-color: grey;
+  color: white;
+  transform: scale(1.3);
+}
+
+#reminder_to_sign_in {
+  border: 3px solid #ffde59;
+  border-radius: 5px;
+  padding: 10px;
 }
