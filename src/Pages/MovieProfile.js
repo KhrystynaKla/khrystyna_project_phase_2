@@ -3,7 +3,6 @@ import { useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
 
 function MovieProfile({currentUser}) {
-  console.log(currentUser)
   const [movie, setMovie]=useState({})
   const params = useParams();
   const movieId=params.id;
@@ -74,8 +73,27 @@ function MovieProfile({currentUser}) {
     
   }
 
-  function deleteComment(event, movie){
-    const movieComents = movie.comments;
+  function deleteComment(event, comment){
+    console.log(comment)
+    let restOfComments=movie.comments.filter(com=>{
+      if(comment.comment===com.comment&&comment.username===com.username){
+        return false
+      } else{return true}
+    })
+    const updatedMovie = {
+      ...movie,
+      comments: restOfComments,
+    };
+    fetch(`http://localhost:4000/movies/${movie.id}`, {
+        method: "PATCH",
+        headers: {
+          "Content-Type": "application/json",
+          "Accept": "application/json",
+        },
+        body: JSON.stringify(updatedMovie),
+      })
+      .then(res=> res.json())
+      .then(data => setMovie(data))  
   }
 
   return (
@@ -119,7 +137,7 @@ function MovieProfile({currentUser}) {
           <div key={comment.comment} className="comment">
             <span className="username">{comment.username}: </span>
             <span className="comment-text">{comment.comment} </span>
-            {currentUser? ((currentUser.username===comment.username)? <button id='delete_button'onClick={(event)=>deleteComment(event, movie)}>X</button>: null) : null}
+            {currentUser? ((currentUser.username===comment.username)? <button id='delete_button'onClick={(event)=>deleteComment(event, comment)}>X</button>: null) : null}
           </div>
         )
       })}
