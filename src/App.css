@@ -303,3 +303,34 @@ b {
   border-radius: 5px;
   padding: 10px;
 }
+
+#comments_section {
+  margin: 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow-y: auto;
+}
+
+.comment {
+  margin: 10px;
+  padding: 10px;
+  background-color: #ffde59;
+}
+
+.username {
+  font-weight: bold;
+}
+
+.comment-text {
+  font-weight: normal;
+}
+
+h3{
+  text-align: center;
+}
+
+#delete_button {
+  float: right;
+}

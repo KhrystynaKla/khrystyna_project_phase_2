@@ -38,14 +38,6 @@
         },
         {
           "username": "KhrystynaKla",
-          "comment": "tfufyvkuyygli"
-        },
-        {
-          "username": "KhrystynaKla",
-          "comment": "the best cartoon ever!"
-        },
-        {
-          "username": "KhrystynaKla",
           "comment": "the best cartoon ever!"
         }
       ]
@@ -287,6 +279,10 @@
         {
           "username": "KhrystynaKla",
           "comment": "It's the best movie I have ever seen in my life!!!!"
+        },
+        {
+          "username": "IanIan",
+          "comment": "I love this movie!!!😍"
         }
       ]
     }
@@ -301,11 +297,6 @@
       "username": "IanIan",
       "password": "ianianian",
       "id": 2
-    },
-    {
-      "username": "kriskris",
-      "password": "qwertyu",
-      "id": 3
     }
   ]
 }

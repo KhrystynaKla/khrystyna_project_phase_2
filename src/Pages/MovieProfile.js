@@ -41,23 +41,6 @@ function MovieProfile({currentUser}) {
   })
   }
 
-  // function addComment(event){
-  //   event.preventDefault()
-  //   fetch(`http://localhost:4000/movies/${movie.id}`, {
-  //     method: "PATCH",
-  //     headers: {
-  //       "Content-Type": "application/json",
-  //       "Accept": "application/json"
-  //     },
-  //     body: JSON.stringify({comments: [...movie.comments, commentFormData]})
-  //   })
-  // }
-
-  // function updateCommentData(event){
-  //   SetCommentFormData({username:currentUser.username,
-  //   comment: event.target.value
-  //   })
-  // }
   function addComment(event) {
     event.preventDefault()
     if (currentUser){
@@ -73,7 +56,9 @@ function MovieProfile({currentUser}) {
           "Accept": "application/json",
         },
         body: JSON.stringify(updatedMovie),
-      });
+      })
+      .then(res=> res.json())
+      .then(data => setMovie(data))
     }
     commentFormRef.current.reset();
     
@@ -89,12 +74,12 @@ function MovieProfile({currentUser}) {
     
   }
 
-
-
-
-
+  function deleteComment(event, movie){
+    const movieComents = movie.comments;
+  }
 
   return (
+    <>
       <main className="movie-details">
         <div className="image-container">
           <img src={movie.image} alt={movie.name} />
@@ -126,11 +111,21 @@ function MovieProfile({currentUser}) {
             </div>
           )}
         </div>
-        <div>
-          {}
-        </div>
       </main>
-  );
+      <div id="comments_section">
+        <h3>Comments: </h3>
+      {movie.comments.map(comment=> {
+        return (
+          <div key={comment.comment} className="comment">
+            <span className="username">{comment.username}: </span>
+            <span className="comment-text">{comment.comment} </span>
+            {currentUser? ((currentUser.username===comment.username)? <button id='delete_button'onClick={(event)=>deleteComment(event, movie)}>X</button>: null) : null}
+          </div>
+        )
+      })}
+    </div>
+    </>
+  ); 
 };
 
 export default MovieProfile;
