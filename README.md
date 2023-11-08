@@ -42,4 +42,18 @@ Post sign-in, you're redirected to the movie page, streamlining your movie explo
 4. Input movie details, with the last two fields optional, and enrich our movie catalog in "Add New Movie," 
 5. Log out at any time, ensuring all your contributions are saved on the backend.
 
+### Example Of Movie Information You Can Paste In "Add New Movie" Section
+
+`Name`: Silence
+
+`Year`: 2021
+
+`Genre`: Crime, Drama
+
+`Description`: Dramatic events unfold in Croatia and Ukraine. The first girl drowned, the second one died from a drug overdose. The main suspect in these deaths, however, soon turns out to be innocent - and dead too.
+
+`Detailed description`: Dramatic events unfold in Croatia and Ukraine. The first girl drowned, the second one died from a drug overdose. The main suspect in these deaths, however, soon turns out to be innocent - and dead too. While detective Vladimir and reporter Stribor struggle to solve these murders in Croatia, the niece of Olga, an Ukrainian philanthropist, goes missing in Kyiv. Olga's Croatian husband, Ivan Hrvatic, one of the most influential people in the city of Osijek, undertakes to help the investigation. But the missing girl is found dead - in Osijek, not in Kyiv. And she is now the third victim. It looks as if a serial killer is operating in Croatia. Vladimir, Stribor and Olga will eventually get to the truth, but not before each of them pays a high price for it. Reporter Stribor will have to trade off his moral principles, and detective Vladimir may have to put his ex-wife in prison for murder. And Olga's happy marriage will soon be under threat because of the shocking story of trafficking weapons and young girls to Europe.
+
+`Image`: https://m.media-amazon.com/images/M/MV5BOTM5YTFmZjAtZDA0NS00NTk2LThjMWQtYWU1ZTE1MGM1OTIxXkEyXkFqcGdeQXVyNzI1MTM3Njg@._V1_.jpg
+
 ### I hope you enjoy it ❤️❤️❤️

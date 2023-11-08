@@ -22,6 +22,18 @@
         {
           "username": "KhrystynaKla",
           "comment": "I can't believe that all of this is true😢😢😢🥺"
+        },
+        {
+          "username": "Tkhoryk",
+          "comment": "I love it❤️❤️❤️🇺🇦🇺🇦🇺🇦"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "🇺🇦🇺🇦🇺🇦"
+        },
+        {
+          "username": "Isamargon",
+          "comment": "Amazing!!!"
         }
       ]
     },
@@ -48,6 +60,14 @@
         {
           "username": "KhrystynaKla",
           "comment": "the best cartoon ever!"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "I love this❤️❤️❤️"
+        },
+        {
+          "username": "Isamargon",
+          "comment": "Simply outstanding! A must-watch 🎬👏"
         }
       ]
     },
@@ -64,7 +84,20 @@
       "platform": "",
       "platform_link": "",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Tkhoryk",
+          "comment": "Stand with Ukraine🇺🇦"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "😭😭😭"
+        },
+        {
+          "username": "Isamargon",
+          "comment": "Simply outstanding! A must-watch 🎬👏"
+        }
+      ]
     },
     {
       "id": 4,
@@ -79,11 +112,23 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNWM3NWI0ZjUtZmZhMy00ZTI0LWJiNTItZWZmMmEwMzVhODZhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
       "platform": "Watch on FANDOR",
       "platform_link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10a9f768-2b05-9283-3e1a-e905db838fa3?ref_=imdbref_tt_wbr_pvc_fandor&tag=imdbtag_tt_wbr_pvc_fandor-20",
-      "likes_number": 0,
+      "likes_number": 5,
       "comments": [
         {
           "username": "KhrystynaKla",
           "comment": "gjvjhkhvhkv"
+        },
+        {
+          "username": "Nesterovych",
+          "comment": "I love it🥰🥰🥰"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "❤️❤️❤️"
+        },
+        {
+          "username": "Isamargon",
+          "comment": "Simply outstanding! A must-watch 🎬👏"
         }
       ]
     },
@@ -102,7 +147,20 @@
       "platform": "Watch on Freevee",
       "platform_link": "https://www.amazon.com/ap/signin?clientContext=135-7108430-8693413&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fauth%2Freturn%2Fref%3Dav_auth_ap%3F_t%3Dsg2VaPRhIvx-dPrXBL18ypmB9atxYQfdhD8J5av-NGZQOAAAAAQAAAABlRYD-cmF3AAAAAPgWC9WfHH8iB-olH_E9xQ%26location%3D%2Fgp%2Fvideo%2Fdetail%2Famzn1.dv.gti.24df1c39-adc5-472e-9469-3d8b583ad5da%3Fref_%253Datv_auth_red_aft%2526tag%253Dimdbtag_tt_wbr_fdv-20%2526autoplay%253D1&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Tkhoryk",
+          "comment": "Soooooo BOOOOORING🤢🤮🤮🤮🤮🤮"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "👍👍👍👍"
+        },
+        {
+          "username": "Isamargon",
+          "comment": "Brilliant movie! I was completely captivated. 👌"
+        }
+      ]
     },
     {
       "id": 6,
@@ -119,7 +177,16 @@
       "platform": "Watch On PRIME VIDEO",
       "platform_link": "https://www.amazon.com/Legend-Carpathians-Valeriy-Kharchyshyn/dp/B0844FL2DN",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Nesterovych",
+          "comment": "It was so interesting👍🇺🇦"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "👍👍👍🥺🥺🥺"
+        }
+      ]
     },
     {
       "id": 7,
@@ -134,7 +201,20 @@
       "platform": "Watch On NETFLIX",
       "platform_link": "https://www.netflix.com/title/80119382?source=imdb",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Tkhoryk",
+          "comment": "I love our President🇺🇦❤️❤️❤️"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "👍👍👍👍"
+        },
+        {
+          "username": "Isamargon",
+          "comment": "This movie is pure magic. 🌟"
+        }
+      ]
     },
     {
       "id": 8,
@@ -151,7 +231,16 @@
       "platform": "Watch On FREEVEE",
       "platform_link": "https://www.amazon.com/ap/signin?clientContext=135-7108430-8693413&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fauth%2Freturn%2Fref%3Dav_auth_ap%3F_t%3Dsg4DQH_w_R0e4AWxHu7IHrXy7oq7HL_QOL9RTav_Sy2hxAAAAAQAAAABlRYfRcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ%26location%3D%2Fgp%2Fvideo%2Fdetail%2Famzn1.dv.gti.b4b67f00-d387-121b-cf5c-3b7f70caad98%3Fref_%253Datv_auth_red_aft%2526tag%253Dimdbtag_tt_wbr_fdv-20%2526autoplay%253D1&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Patnareejon",
+          "comment": "It's pretty good cartoon👍👍👍"
+        },
+        {
+          "username": "Isamargon",
+          "comment": "This movie is pure magic. 🌟"
+        }
+      ]
     },
     {
       "id": 9,
@@ -167,7 +256,12 @@
       "platform": "Watch On PRIME VIDEO",
       "platform_link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1cba51a2-4413-4133-b08a-a095b6b58895?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Patnareejon",
+          "comment": "😱😱😱😱😱😱"
+        }
+      ]
     },
     {
       "id": 10,
@@ -185,7 +279,12 @@
       "platform": "Watch on CRACKLE",
       "platform_link": "https://www.crackle.com/watch/21312792-9ba4-454a-aaf0-7a044926cfea/cossacks",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Patnareejon",
+          "comment": "❤️❤️❤️❤️"
+        }
+      ]
     },
     {
       "id": 11,
@@ -201,7 +300,16 @@
       "platform": "Watch on Freevee",
       "platform_link": "https://www.amazon.com/ap/signin?clientContext=135-7108430-8693413&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fauth%2Freturn%2Fref%3Dav_auth_ap%3F_t%3Dsg6pmsAis6toCWIk3FjC8gtpnNepW8vaBMJDPXVCxI87MAAAAAQAAAABlRYuncmF3AAAAAPgWC9WfHH8iB-olH_E9xQ%26location%3D%2Fgp%2Fvideo%2Fdetail%2Famzn1.dv.gti.30b03886-3711-e55b-24d0-0e1589fa2a06%3Fref_%253Datv_auth_red_aft%2526tag%253Dimdbtag_tt_wbr_fdv-20%2526autoplay%253D1&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Tkhoryk",
+          "comment": "Not so good as I've expected😐😐😐😐"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "👍👍👍👍👍👍"
+        }
+      ]
     },
     {
       "id": 12,
@@ -218,7 +326,16 @@
       "platform": "Watch On PRIME VIDEO",
       "platform_link": "https://www.amazon.com/Heroes-Never-Die-Roman-Yasinovsky/dp/B0899784D8",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Tkhoryk",
+          "comment": "I cannot believe that it's true story😢😢😢😢"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "😭😭😭😭😭😭"
+        }
+      ]
     },
     {
       "id": 13,
@@ -234,7 +351,16 @@
       "platform": "Watch On PRIME VIDEO",
       "platform_link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a9356d36-f9b7-4648-b9ca-f666bab9705f?tag=reelgood060d-20",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Tkhoryk",
+          "comment": "The acting is definitely cool😎"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "🥺🥺🥺🥺"
+        }
+      ]
     },
     {
       "id": 14,
@@ -251,7 +377,12 @@
       "platform": "Watch On PRIME VIDEO",
       "platform_link": "https://www.amazon.com/Black-Raven-George-Zucco/dp/B000GWF8AO",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Patnareejon",
+          "comment": "👍👍👍"
+        }
+      ]
     },
     {
       "id": 15,
@@ -268,7 +399,20 @@
       "platform": "Watch On KYIVSTAR",
       "platform_link": "https://tv.kyivstar.ua/en/movie/627a56310f34e2deb5424098-2020-viddana",
       "likes_number": 0,
-      "comments": []
+      "comments": [
+        {
+          "username": "Tkhoryk",
+          "comment": "Everything is amazing💕💕💕💕"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "🥰🥰🥰🥰"
+        },
+        {
+          "username": "Isamargon",
+          "comment": "Enjoyed it a lot!❤️❤️❤️"
+        }
+      ]
     },
     {
       "id": 16,
@@ -292,6 +436,14 @@
         {
           "username": "IanIan",
           "comment": "I love this movie!!!😍"
+        },
+        {
+          "username": "Patnareejon",
+          "comment": "❤️❤️❤️"
+        },
+        {
+          "username": "Isamargon",
+          "comment": "Enjoyed it a lot!❤️❤️❤️"
         }
       ]
     }
@@ -306,6 +458,31 @@
       "username": "IanIan",
       "password": "ianianian",
       "id": 2
+    },
+    {
+      "username": "Nesterovych",
+      "password": "Nesterovych",
+      "id": 3
+    },
+    {
+      "username": "Tkhoryk",
+      "password": "Tkhoryk",
+      "id": 4
+    },
+    {
+      "username": "Patnareejon",
+      "password": "PatnareeJon",
+      "id": 5
+    },
+    {
+      "username": "Isamargon",
+      "password": "Isamargon",
+      "id": 6
+    },
+    {
+      "username": "Patnareejon",
+      "password": "Patnareejon",
+      "id": 7
     }
   ]
 }
