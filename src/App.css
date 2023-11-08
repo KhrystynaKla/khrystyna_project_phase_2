@@ -1,6 +1,6 @@
-html, body, #root {
+body, #root {
   margin:0px;
-  padding:0px;
+  padding-bottom:px;
   height:100vh;
   color: #161925;
   font-family: 'Quicksand', sans-serif;
@@ -9,6 +9,8 @@ html, body, #root {
 
 
 /* header */
+
+
 
 #logo {
   width: 100vw; /* 100% of the viewport width */
@@ -217,6 +219,7 @@ b {
   margin: 0 auto;
   text-align: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
 }
 
 .login-container h2 {
@@ -270,6 +273,7 @@ b {
   margin: 100px auto;
   text-align: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
 }
 
 .logout-container h2 {
@@ -334,3 +338,42 @@ h3{
 #delete_button {
   float: right;
 }
+
+.links{
+  margin: 10px auto;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+.links:hover {
+  color: grey;
+  transform: scale(1.30)
+}
+
+.links.active {
+  color: grey;
+}
+#welcome-container {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Styling for the title */
+.welcome-title {
+  font-size: 24px;
+  color: #333;
+}
+
+/* Styling for the paragraphs */
+.welcome-paragraph {
+  font-size: 18px;
+  color: #666;
+  margin: 10px 0;
+}
+

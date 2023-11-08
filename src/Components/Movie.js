@@ -5,7 +5,7 @@ function Movie({movie, increaseLikes}){
             <div className="details-container">
                 <h3>{movie.name}</h3>                    
                 <p>{movie.description}</p>
-                <Link to={`/movies/${movie.id}`}>View Info</Link>
+                <Link className='links' to={`/movies/${movie.id}`}>View Info</Link>
             </div>
         </div>
     );
