@@ -5,6 +5,8 @@ function Home({currentUser}){
     return <>
         <NavBar currentUser={currentUser}/>
         <Outlet />
+        <br></br>
+        <br></br>
     </>
 }
 

@@ -12,6 +12,15 @@ import Signout from './Pages/Signout';
 
 function App() {
   const [movies, setMovies] = useState([])
+
+  //getting all movies
+  useEffect(() => {
+    fetch("http://localhost:4000/movies")
+    .then(response => response.json())
+    .then(moviesData => setMovies(moviesData))
+  }, [])
+
+  
   // Users and login section
   const [userInfo, setUserInfo]=useState({
     username:'',
@@ -66,12 +75,9 @@ function App() {
     likes_number: 0,
     comments:[]
   })
-  //getting all movies
-  useEffect(() => {
-    fetch("http://localhost:4000/movies")
-    .then(response => response.json())
-    .then(moviesData => setMovies(moviesData))
-  }, [])
+  
+
+  // add new movie:
 
   function addMovie(event){
     event.preventDefault()
@@ -105,8 +111,22 @@ function App() {
   }
 
 
+  //Filter by genres
 
-  
+  const [selectedGenre, setSelectedGenre]=useState('All')
+  const genresList=["All","Action", "Drama", "Comedy", "Horror", "War", "Documentary", "Crime", "History", "Adventure", "Family", "Thriller", "Fantasy", "Sport"]
+  const filteredMovieList = movies.filter(movie => {
+    if (selectedGenre === "All") {
+      return true;
+    } else if (movie.genre.indexOf(selectedGenre) !== -1) {
+      return true; 
+    } else {
+      return false; 
+    }
+  });
+
+
+  // client-side routing part
 
   const routes = [
     {
@@ -120,7 +140,7 @@ function App() {
         },
         {
           path: "/movies",
-          element: <MovieList movies={movies}/>
+          element: <MovieList movies={filteredMovieList} genresList={genresList} setSelectedGenre={setSelectedGenre}/>
         },
         {
           path: "/add_movie",

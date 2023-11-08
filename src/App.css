@@ -377,3 +377,24 @@ h3{
   margin: 10px 0;
 }
 
+#genre_buttons{
+  width: 100%;
+  background-color: #ffde59;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  transition: transform 0.3s;
+}
+ 
+.genre {
+  width: 100%;
+  background-color: #ffde59;
+  align-content: center;
+  border: none;
+}
+
+.genre:hover {
+  color: white;
+  transform: scale(1.15)
+}

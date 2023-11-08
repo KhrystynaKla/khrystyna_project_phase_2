@@ -1,71 +1,45 @@
-# Getting Started with Create React App
+# The Movies of Ukraine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🇺🇦🇺🇦🇺🇦
+In this project, you are invited to explore website dedicated to Ukrainian cinema! Dive into a world of captivating Ukrainian movies, where you can access detailed information about each film. You can find it all here, whether you're seeking drama, comedy, or historical epics. 
 
-## Available Scripts
+Plus, by signing in, you gain the power to contribute and edit movie details, making your mark on our community. Create an account to discover the rich tapestry of Ukrainian cinema and be a part of a film-loving community.
 
-In the project directory, you can run:
+Visit the website and experience the magic of Ukrainian movies like never before!
 
-### `npm start`
+Before Logging In:
+![Before Logging In](image.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+After Logging In:
+![After Logging In](image-1.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Setup
+1. Run `npm install` in your terminal.
+2. Run `npm run server`. This will run your backend on port 4000.
+3. In a new terminal, run `npm start`. 
+---
+Make sure to open http://localhost:4000/movies and http://localhost:4000/users in the browser to verify that your backend is working before you proceed!
 
-### `npm test`
+## Core features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+###Users are offered an array of features for both signed-in and guest users.
 
-### `npm run build`
+### 👤 Before Logging In You Can:
+1. See "Home" page.
+1. Navigate effortlessly through the "Navbar" to access the "Movies" and "Sign In" sections.
+2. Explore captivating movie cards and use genre filters in the "Movies" section.
+3. Click "View info" to delve deeper into individual movie pages.
+4. View movie details and comments. While you can see comments, you must log in to like or comment (a prompt guides you) on the "Movie" page.
+5. Input your username and password, stored in our backend in the "Sign In" section.
+6. Sign in and receive feedback based on your account status.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 👤 After Logging In You Can:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Post sign-in, you're redirected to the movie page, streamlining your movie exploration.
+1. Witness Navbar enhancements: "Add New Movie" appears, and "Sign In" transforms into "Sign Out."
+2. On specific movie pages, you can leave comments (username is added by default) and like movies.
+3. Delete comments that you authored;
+4. Input movie details, with the last two fields optional, and enrich our movie catalog in "Add New Movie," 
+5. Log out at any time, ensuring all your contributions are saved on the backend.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# khrystyna_project_phase_2
+### I hope you enjoy it ❤️❤️❤️
