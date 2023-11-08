@@ -392,6 +392,9 @@ h3{
   background-color: #ffde59;
   align-content: center;
   border: none;
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 10px;
 }
 
 .genre:hover {
