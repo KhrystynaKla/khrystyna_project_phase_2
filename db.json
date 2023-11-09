@@ -13,7 +13,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNWMwOTgyNmMtYWNlYS00NGIyLTllOWYtZTVlNzU3N2ViZWQ5XkEyXkFqcGdeQXVyMzk3OTUyMDY@._V1_.jpg",
       "platform": "Watch on SHOWTIME",
       "platform_link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8e0346db-d4a8-42ab-8e4d-7d45cfbe6658?ref_=imdbref_tt_wbr_pvc_showtimeSub&tag=imdbtag_tt_wbr_pvc_showtimeSub-20",
-      "likes_number": 20,
+      "likes_number": 21,
       "comments": [
         {
           "username": "KhrystynaKla",
@@ -34,6 +34,10 @@
         {
           "username": "Isamargon",
           "comment": "Amazing!!!"
+        },
+        {
+          "username": "IanIan",
+          "comment": "wow❤️❤️❤️❤️"
         }
       ]
     },
@@ -434,10 +438,6 @@
           "comment": "It's the best movie I have ever seen in my life!!!!"
         },
         {
-          "username": "IanIan",
-          "comment": "I love this movie!!!😍"
-        },
-        {
           "username": "Patnareejon",
           "comment": "❤️❤️❤️"
         },
@@ -483,6 +483,11 @@
       "username": "Patnareejon",
       "password": "Patnareejon",
       "id": 7
+    },
+    {
+      "username": "IanIan",
+      "password": "Ianianian",
+      "id": 8
     }
   ]
 }
